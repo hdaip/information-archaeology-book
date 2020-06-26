@@ -1,2 +1,2 @@
 # information-archaeology-book
-Methodische Grundlage der Archäologie in Information - Information Archaeology
+Beschreibung der methodischen Grundlage der Archäologie in Information - Information Archaeology
